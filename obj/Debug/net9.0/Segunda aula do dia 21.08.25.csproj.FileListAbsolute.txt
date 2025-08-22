@@ -12,3 +12,4 @@ C:\Trabalhos Faculdade\Aulas do Walisson\Segunda aula do dia 21.08.25\obj\Debug\
 C:\Trabalhos Faculdade\Aulas do Walisson\Segunda aula do dia 21.08.25\obj\Debug\net9.0\Segunda aula do dia 21.08.25.pdb
 C:\Trabalhos Faculdade\Aulas do Walisson\Segunda aula do dia 21.08.25\obj\Debug\net9.0\Segunda aula do dia 21.08.25.genruntimeconfig.cache
 C:\Trabalhos Faculdade\Aulas do Walisson\Segunda aula do dia 21.08.25\obj\Debug\net9.0\ref\Segunda aula do dia 21.08.25.dll
+C:\Trabalhos Faculdade\Aulas do Walisson\Segunda aula do dia 21.08.25\obj\Debug\net9.0\Segunda aula do dia 21.08.25.sourcelink.json
